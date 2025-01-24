@@ -1,4 +1,4 @@
-<h1 align="center">AID EDGE INC. - SCALABLE REAL-TIME EDGE AI FRAMEWORKS</h1>
+<h1 align="center">AID Edge Inc. - Scalable Real-Time Edge AI Frameworks</h1>
 
 <p align="center">
   Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
