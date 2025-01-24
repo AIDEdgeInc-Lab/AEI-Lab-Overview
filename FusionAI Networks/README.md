@@ -1,4 +1,4 @@
-<h1 align="center">AID EDGE INC. - FUSION ADAPTIVE NETWORKS</h1>
+<h1 align="center">AID Edge Inc. - Fusion Adaptive Networks</h1>
 
 <p align="center">
   Empowering Telecom with Hybrid Machine Learning Solutions for Edge and Cloud Integration.
