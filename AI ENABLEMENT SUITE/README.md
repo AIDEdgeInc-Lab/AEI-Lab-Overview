@@ -1,5 +1,5 @@
 
-<h1 align="center"> AID EDGE INC. - AI ENABLEMENT SUITE</h1>
+<h1 align="center"> AID Edge Inc. - AI Enablement Suite</h1>
 <p align="center"><i align="center">Accelerating AI Development with Powerful Tools and Resources</i></p>
 
 <p align="center">
