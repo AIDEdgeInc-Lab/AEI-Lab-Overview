@@ -1,4 +1,4 @@
-<h1 align="center">AID EDGE INC. - NANOML ACCELERATION SUITE</h1>
+<h1 align="center">AID Edge Inc. - NanoML Acceleration Suite</h1>
 
 <p align="center">
   Empowering Scalable and Efficient AI on Resource-Constrained Devices for Telecom and Beyond.
