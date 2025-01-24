@@ -1,5 +1,5 @@
 
-<h1 align="center">AID EDGE INC. - KNOWLEDGE HUB</h1>
+<h1 align="center">AID Edge Inc. - Knowledge Hub</h1>
 <p align="center"><i>Empowering Transformation Through Knowledge and Insights</i></p>
 <p align="center">
 Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
