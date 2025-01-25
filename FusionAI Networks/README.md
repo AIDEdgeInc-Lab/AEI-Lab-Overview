@@ -226,31 +226,35 @@ Leverage our suite of supporting tools to enhance your Edge AI development proce
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163) Contact
+##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Contact
 
 For questions, feedback, or to learn more, reach out to us:
 
 - 📧 **Email**: [info@aidedgeinc.com](mailto:info@aidedgeinc.com)
-- 🌐 **Website**: [Visit our official website](https://www.aidedges.com)
+- 🌐 **Website**: [www.aidedges.com](https://www.aidedges.com)
 
 We value your feedback and are happy to assist with any questions or requirements!
 
 ---
 
-<p align="center">✨  Follow us on:</strong> </p> 
+
+
+<p align="center"> ✨ Follow us on:  </strong> </p> 
+
 
 <p align="center">
-  <a href="https://www.aidedges.com">
-    <img src="https://img.shields.io/badge/Website-AID%20Edge%20Inc.-Pastel%20Mint?style=for-the-badge&color=A3E4D7" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/company/aid-edge-inc">
-    <img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab">
-    <img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=E6E6FA" alt="GitHub">
-  </a>
-  <a href="mailto:info@aidedgeinc.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Us-Pastel%20Pink?style=for-the-badge&color=FFE5CC" alt="Email">
+  <a href="https://www.aidedges.com"><img src="https://img.shields.io/badge/Website-AID%20Edge%20Inc.-Pastel%20Mint?style=for-the-badge&color=A3E4D7" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/aid-edge-inc"><img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="LinkedIn"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab"><img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=E6E6FA" alt="GitHub"></a>
+  <a href="mailto:info@aidedgeinc.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-Pastel%20Pink?style=for-the-badge&color=FFE5CC" alt="Email"></a>
+  
+</p>
+
+---
+
+<p align="center">
+  <a href="#" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/©%202025%20AID%20Edge%20Inc.%20All%20Rights%20Reserved-Pastel%20Lavender?style=for-the-badge&color=E8E8E8" alt="© 2025 AID Edge Inc. - All Rights Reserved">
   </a>
 </p>
 
