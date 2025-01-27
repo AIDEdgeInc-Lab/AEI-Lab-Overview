@@ -79,10 +79,10 @@ This repository is designed to:
 
 Explore our other repositories for cutting-edge AI solutions:
 
-- [**Orbital Intelligence**](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks): Real-time AI solutions for satellite systems.
-- [**Airwave NanoML**](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite): Lightweight models for wireless optimization.
-- [**FusionAI Networks**](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks): Hybrid frameworks for edge and cloud intelligence.
-- [**Knowledge Hub**](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning): Comprehensive tutorials and documentation.
+- [**Orbital Intelligence**](mailto:info@aidedgeinc.com): Real-time AI solutions for satellite systems.
+- [**Airwave NanoML**](mailto:info@aidedgeinc.com): Lightweight models for wireless optimization.
+- [**FusionAI Networks**](mailto:info@aidedgeinc.com): Hybrid frameworks for edge and cloud intelligence.
+- [**Knowledge Hub**](mailto:info@aidedgeinc.com): Comprehensive tutorials and documentation.
 
 ---
 
