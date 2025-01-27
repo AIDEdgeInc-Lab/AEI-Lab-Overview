@@ -105,13 +105,13 @@ This repository goes beyond documentation—it's a one-stop hub for learning, in
 
 Explore our other repositories for cutting-edge AI solutions:
 
-- [**Edge AI Frameworks**](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)  
+- [**Edge AI Frameworks**](mailto:info@aidedgeinc.com)
   Real-time AI deployment tailored for edge devices.
 
-- [**NanoML Suite**](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite)  
+- [**NanoML Suite**](mailto:info@aidedgeinc.com)
   Lightweight AI models optimized for resource-constrained environments.
 
-- [**FusionAI Networks**](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks)  
+- [**FusionAI Networks**](mailto:info@aidedgeinc.com)
   Hybrid AI frameworks integrating edge and cloud intelligence.
 
 ---
