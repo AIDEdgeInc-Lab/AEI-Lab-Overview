@@ -68,7 +68,7 @@ Cutting-edge AI frameworks to enhance wireless communication systems:
 - 5G performance optimization with predictive analytics.
 - Real-time outage prediction and mitigation.
 
-[Explore: Airwave Intelligence Models](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks/tree/main/wireless)
+[Explore: Airwave Intelligence Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -79,7 +79,7 @@ Intelligent frameworks for wireline communication networks:
 - Fault detection and proactive resolution.
 - Data flow optimization for improved network performance.
 
-[Explore: Wired Intelligence Models](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks/tree/main/wireline)
+[Explore: Wired Intelligence Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -90,7 +90,7 @@ Our repository provides industries with the tools to harness the power of AI at 
 - Optimized network performance with proactive analytics.
 - Reduced reliance on centralized infrastructure for faster and more reliable operations.
 
-Explore the project: [Edge AI Frameworks](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
+Explore the project: [Edge AI Frameworks](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -209,7 +209,7 @@ Explore our detailed guides and tutorials designed to help users understand and 
 - **FAQs:** Common questions answered to guide you through challenges in predictive maintenance and network optimization.
 - **Domain-Specific Guides:** Tutorials tailored for Orbital, Airwave, and Wired Intelligence applications.
 
-📖 Access the full documentation [Knowledge Hub](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+📖 Access the full documentation [Knowledge Hub](mailto:info@aidedgeinc.com).
 
 ---
 
@@ -221,7 +221,7 @@ Leverage our suite of supporting tools to enhance your Edge AI development proce
 - **Model Evaluation Scripts:** Benchmark and evaluate model performance, particularly for Orbital, Airwave, and Wired Intelligence domains.
 - **Deployment Scripts:** Streamline workflows for deploying AI models on edge devices to optimize network reliability and uptime.
 
-🔗 Explore the AI Enablement Suite repository [AI Enablement Suite repository](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+🔗 Explore the AI Enablement Suite repository [AI Enablement Suite repository](mailto:info@aidedgeinc.com).
 
 
 
