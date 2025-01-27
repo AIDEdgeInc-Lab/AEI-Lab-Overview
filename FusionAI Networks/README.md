@@ -53,7 +53,7 @@ Hybrid solutions for satellite telecom networks:
 - Cloud-assisted predictive analytics for satellite fault detection.
 - Hybrid AI for disaster response and low-latency communication.
 
-[Explore: Orbital FusionAI Models](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks/tree/main/satellite)
+[Explore: Orbital FusionAI Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -64,7 +64,7 @@ Hybrid frameworks for wireless telecom networks:
 - Latency reduction for 5G and IoT systems through distributed inference.
 - Dynamic resource optimization for wireless network reliability.
 
-[Explore: Airwave FusionAI Models](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks/tree/main/wireless)
+[Explore: Airwave FusionAI Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -75,8 +75,7 @@ Hybrid AI for wireline telecom networks:
 - Fault detection using distributed machine learning workflows.
 - Optimization of wired network throughput with adaptive AI models.
 
-[Explore: Wired FusionAI Models](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks/tree/main/wireline)
-
+[Explore: Wired FusionAI Models](mailto:info@aidedgeinc.com)
 ---
 
 ### Why Choose FusionAI Adaptive Networks?
@@ -86,7 +85,7 @@ The **FusionAI Adaptive Networks** repository empowers telecom providers by:
 - **Optimizing Network Performance**: Real-time predictive maintenance and outage prevention.
 - **Reducing Latency**: Distributed inference models for faster decision-making.
 
-Explore the project: [FusionAI Adaptive Networks](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks)
+Explore the project: [FusionAI Adaptive Networks](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -210,7 +209,7 @@ Explore our detailed guides and tutorials designed to help users understand and 
 - **FAQs:** Common questions answered to guide you through challenges in predictive maintenance and network optimization.
 - **Domain-Specific Guides:** Tutorials tailored for Orbital, Airwave, and Wired Intelligence applications.
 
-📖 Access the full documentation through our [Knowledge Hub](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+📖 Access the full documentation through our [Knowledge Hub](mailto:info@aidedgeinc.com).
 
 ---
 
@@ -222,7 +221,7 @@ Leverage our suite of supporting tools to enhance your Edge AI development proce
 - **Model Evaluation Scripts:** Test hybrid performance across domains.
 - **Deployment Scripts:** Seamlessly deploy across edge and cloud environments.
 
-🔗 Dive deeper into our tools by visiting the [AI Enablement Suite repository](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+🔗 Dive deeper into our tools by visiting the [AI Enablement Suite repository](mailto:info@aidedgeinc.com).
 
 ---
 
