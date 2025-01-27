@@ -53,7 +53,7 @@ NanoML-powered insights for satellite systems:
 - Predictive analysis for environmental monitoring using low-power models.
 - Low-latency models for disaster response.
 
-[Explore: Orbital NanoML Models](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite/tree/main/satellite)
+[Explore: Orbital NanoML Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -64,7 +64,7 @@ Optimized TinyML frameworks for wireless communication systems:
 - Real-time outage prediction using resource-efficient models.
 - Dynamic optimization for network reliability and performance.
 
-[Explore: Airwave NanoML Models](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite/tree/main/wireless)
+[Explore: Airwave NanoML Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -75,7 +75,7 @@ Lightweight AI solutions for wireline networks:
 - Model-driven fault detection and resolution.
 - Data flow optimization for improved throughput and performance.
 
-[Explore: Wired NanoML Models](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite/tree/main/wireline)
+[Explore: Wired NanoML Models](mailto:info@aidedgeinc.com)
 
 ---
 
@@ -86,8 +86,7 @@ Our repository delivers:
 - **Predictive Maintenance**: Lightweight AI models to prevent network outages.
 - **Energy Efficiency**: Advanced TinyML techniques for low-power consumption in edge environments.
 
-Explore the project: [NanoML Acceleration Suite](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite)
-
+Explore the project: [NanoML Acceleration Suite](mailto:info@aidedgeinc.com)
 ---
 
 ## ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79) How to Run the Projects
@@ -212,7 +211,7 @@ Explore our detailed guides and tutorials designed to help users understand and 
 - **FAQs:** Common questions answered to guide you through challenges in predictive maintenance and network optimization.
 - **Domain-Specific Guides:** Tutorials tailored for Orbital, Airwave, and Wired Intelligence applications.
 
-📖 Access the full documentation [Knowledge Hub](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+📖 Access the full documentation [Knowledge Hub](mailto:info@aidedgeinc.com).
 
 ---
 
@@ -224,7 +223,7 @@ Leverage our suite of supporting tools to enhance your Edge AI development proce
 - **Model Evaluation Scripts:** Benchmark and evaluate model performance, particularly for Orbital, Airwave, and Wired Intelligence domains.
 - **Deployment Scripts:** Streamline workflows for deploying AI models on edge devices to optimize network reliability and uptime.
 
-🔗 Explore the AI Enablement Suite repository [AI Enablement Suite repository](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+🔗 Explore the AI Enablement Suite repository [AI Enablement Suite repository](mailto:info@aidedgeinc.com).
 
 
 
