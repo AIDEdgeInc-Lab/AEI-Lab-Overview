@@ -75,7 +75,7 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 ##  ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
 
-### [Orbital Intelligence](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
+### [Orbital Intelligence](mailto:info@aidedgeinc.com)
 Real-time AI solutions for satellite networks:
 - Satellite communication optimization.
 - Environmental monitoring.
@@ -83,7 +83,7 @@ Real-time AI solutions for satellite networks:
 
 ---
 
-### [Airwave NanoML](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite)
+### [Airwave NanoML](mailto:info@aidedgeinc.com)
 Lightweight AI models for wireless systems:
 - Latency reduction in IoT.
 - 5G network optimization.
@@ -91,7 +91,7 @@ Lightweight AI models for wireless systems:
 
 ---
 
-### [FusionAI Networks](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks)
+### [FusionAI Networks](mailto:info@aidedgeinc.com)
 Hybrid AI frameworks for telecom networks:
 - Cloud-edge integration.
 - Predictive maintenance.
@@ -200,7 +200,7 @@ Explore in-depth guides and tutorials to understand and use our solutions effect
 - **FAQs:** Answers to common questions about our tools and platforms.
 - **Detailed Guides:** Tutorials and step-by-step instructions for each project.
 
-📖 Access our full documentation [Knowledge Hub](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+📖 Access our full documentation [Knowledge Hub](mailto:info@aidedgeinc.com).
 
 ---
 
@@ -213,7 +213,7 @@ Discover additional tools and resources that can enhance your AI development pro
 - **Model Evaluation Scripts:** Benchmark and evaluate model performance.
 - **Deployment Scripts:** Simplify deployment workflows for edge and cloud environments.
 
-🔗 Explore the tools repository [AI Enablement Suite](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+🔗 Explore the tools repository [AI Enablement Suite](mailto:info@aidedgeinc.com).
 
 
 
