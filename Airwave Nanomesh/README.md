@@ -85,8 +85,10 @@ Our repository delivers:
 - **Scalable Optimization**: Real-time AI for resource-constrained devices in telecom.
 - **Predictive Maintenance**: Lightweight AI models to prevent network outages.
 - **Energy Efficiency**: Advanced TinyML techniques for low-power consumption in edge environments.
+  
 
-Explore the project: [NanoML Acceleration Suite](mailto:info@aidedgeinc.com)
+
+
 ---
 
 ## ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79) How to Run the Projects
