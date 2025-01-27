@@ -57,7 +57,7 @@ AI-powered insights from satellite data for applications such as:
 - Environmental monitoring and forecasting.
 - Strategic analysis and communication optimization.
 
-[Explore: Orbital Intelligence Models](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks/tree/main/satellite)
+[Explore: Orbital Intelligence Models](mailto:info@aidedgeinc.com)
 
 ---
 
