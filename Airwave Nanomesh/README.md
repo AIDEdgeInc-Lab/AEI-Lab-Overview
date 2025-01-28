@@ -31,7 +31,9 @@ Advancing the possibilities of AI for resource-constrained environments with **T
 ## ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b) Projects Overview: NanoML Acceleration Suite
 
 <div align="justify">
+  
 The **NanoML Acceleration Suite** is designed to bring lightweight AI capabilities to **telecom networks**. By combining **TinyML** models and optimization workflows, we empower resource-constrained devices to deliver real-time analytics, predictive maintenance, and outage prevention.
+
 </div>
 
 ---
